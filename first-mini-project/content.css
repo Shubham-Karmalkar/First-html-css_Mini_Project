@@ -2,16 +2,108 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
 
 }
-
-.brand-head{
+.container-nav{
     display: flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 100px ;
+    align-content: center;
 }
-
-.logo{
-
+.brand-logo{
+    height: inherit;
 }
 .logo-img{
-    width: 150px;
+    height: inherit;
+}
+.search-bar{
+   align-self: center;
+}
+.search{
+   width: 30vw;
+   height: 40%;
+   border-radius: 2vw;
+   padding-left: 30px ;
+}
+.nav-bar{
+    line-height: 100px;
+    margin-right: 5vw;
+}
+.nav-bar a {
+    display: inline-block;
+    font-size: 1.25em;
+    text-decoration: none;
+    padding: 0px 25px;
+    font-weight: 600;
+}
+.nav-bar a:link, a:visited {
+    color : white;
+}
+.nav-bar a:hover, a:active {
+    color: black;
+    background-color: white;
+}
+.menu{
+    display: inline-block ;
+    border-bottom: 5px solid white;
+    margin-bottom: 5px;
+    width: 40px;
+}
+.menu-cont{
+    align-self: center;
+    width: 20vw;
+    display: none;
+    position:relative;
+    text-align: center;
+}
+.drop{
+    display: none;
+    position: absolute;
+    color: white;
+    background-color: black;
+    width: 100%;
+    box-shadow: -5px 5px 20px #159de7;
+}
+.drop a{
+    display: block;
+    font-size: 1.25em;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+.drop a:link, a:visited{
+    color: white;
+}
+.drop a:hover, a:active{
+    background-color: white;
+    color: black;
+}
+
+.menu-cont:hover .drop{
+    display: block;
+}
+.menu-cont
+@media screen and (max-width : 1050px) {
+    .nav-bar{
+        margin-right: 1.5vw;
+    }
+    .nav-bar a{
+        padding: 0px 15px;
+    }
+}
+@media screen and (max-width : 880px) {
+    .nav-bar a{
+        padding: 0px 10px;
+    }
+}
+@media screen and (max-width : 780px) {
+    .menu-cont{
+        display: block;
+    }
+    .nav-bar{
+        display: none;
+    }
 }
