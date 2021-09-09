@@ -85,7 +85,7 @@ body{
 @media screen and (max-width : 750px) {
     .container{
         flex-direction: column;
-        overflow: ;
+        /* overflow: ; */
     }
     .brand-logo{
         width: 100vw;
