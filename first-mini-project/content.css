@@ -21,12 +21,14 @@
 }
 .search-bar{
    align-self: center;
+   height: 50%;
 }
 .search{
    width: 30vw;
-   height: 40%;
-   border-radius: 2vw;
+   height: 100%;
+   border-radius: 50px;
    padding-left: 30px ;
+   font-size: 1.25em;
 }
 .nav-bar{
     line-height: 100px;
@@ -47,10 +49,8 @@
     background-color: white;
 }
 .menu{
-    display: inline-block ;
-    border-bottom: 5px solid white;
-    margin-bottom: 5px;
-    width: 40px;
+    font-size: 40px;   
+    color: white;
 }
 .menu-cont{
     align-self: center;
@@ -85,7 +85,11 @@
 .menu-cont:hover .drop{
     display: block;
 }
-.menu-cont
+@media screen and (max-width : 1300px) {
+    .nav-bar{
+        margin-right: 1vw;
+    }
+}
 @media screen and (max-width : 1050px) {
     .nav-bar{
         margin-right: 1.5vw;
