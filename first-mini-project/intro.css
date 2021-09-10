@@ -75,8 +75,12 @@ body{
     height: 40px;
 }
 .social-media a{
+    text-decoration: none;
     display: inline-block;
     margin: 10px;
+}
+.social-media a:link, a:visited{
+    background-color: #159de7;
 }
 .social-media a:hover, a:active{
     transform: scale(1.2);
