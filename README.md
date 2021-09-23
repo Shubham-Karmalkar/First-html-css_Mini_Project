@@ -6,8 +6,8 @@ This is basically a webpage of a e-commerse site, made using only HTML, CSS and 
 
 ## Screenshots
 
-![App Screenshot](./Images/Screenshot (748).png)
-![App Screenshot](./Images/Screenshot (747).png)
+![App Screenshot](./first-mini-project/Images/Screenshot (748).png)
+![App Screenshot](./first-mini-project/Images/Screenshot (747).png)
 
   
 ## Features
