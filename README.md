@@ -53,6 +53,6 @@ https://shubham-karmalkar.netlify.app/
   
 ## Feedback
 
-If you have any feedback, please reach out to us at karmalkarshubham22@gmail.com
+If you have any feedback, please reach out to me at karmalkarshubham22@gmail.com
 
   
