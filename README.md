@@ -47,7 +47,7 @@ https://shubham-karmalkar.netlify.app/
 ## Authors
 
 - [@ShubhamKarmalkar](https://github.com/Shubham-Karmalkar)  
-    I am a presently studing under full-stack course this is this  
+    I am a presently studing under full-stack course this is the  
     first HTML, CSS based mini project that I have made .
 
   
