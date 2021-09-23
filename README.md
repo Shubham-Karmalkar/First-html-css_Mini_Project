@@ -6,7 +6,9 @@ This is basically a webpage of a e-commerse site, made using only HTML, CSS and 
 
 ## Screenshots
 
-<kbd>![App Screenshot](https://github.com/Shubham-Karmalkar/First-html-css_Mini_Project/blob/main/first-mini-project/Images/Screenshot%20(748).png)</kbd>
+<kbd>![App Screenshot](https://github.com/Shubham-Karmalkar/First-html-css_Mini_Project/blob/main/first-mini-project/Images/Screenshot%20(748).png)</kbd>  
+  
+  
 <kbd>![App Screenshot](https://github.com/Shubham-Karmalkar/First-html-css_Mini_Project/blob/main/first-mini-project/Images/Screenshot%20(747).png)</kbd>
 
   
